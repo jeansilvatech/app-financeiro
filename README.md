@@ -6,9 +6,10 @@
 ### Desenvolvido acompanhando aula no youtube, feita pelo Will Dev
 
 
-### Link do Canal Will Dev <a href="https://www.youtube.com/channel/UCLTb4X0OBfp9rRGkhOcktbQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+### Canal Will Dev 
+<a href="https://www.youtube.com/channel/UCLTb4X0OBfp9rRGkhOcktbQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-## Teste o projeto abaixo:
+## Página do projeto abaixo:
 
 <a href="https://jeansilvatech.github.io/app-financeiro/" target="_blank"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
 <a href="https://jeansilvatech.github.io/app-financeiro/" target="_blank"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
